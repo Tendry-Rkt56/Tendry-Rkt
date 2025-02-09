@@ -4,6 +4,7 @@ import commerce from '../../assets/images/projets/ecommerce.png'
 import upwork from '../../assets/images/projets/upwork.png'
 import quizz from '../../assets/images/projets/quizzs.png'
 import laravel from '../../assets/images/projets/laravel.png'
+import jeu from '../../assets/images/projets/jeu.png'
 export const items = [
      {
           image:pharmacie,
@@ -59,6 +60,14 @@ export const items = [
           lien: 'https://js-quizz-app.vercel.app',
           techno: [
                'JavaScript', 'JSON'
+          ]
+     },
+     {
+          image:jeu,
+          title: "Share life", 
+          description:`Un jeu de survie où le joueur, naufragé sur une île après un crash d'avion, doit collecter des ressources et gérer sa survie pour éspérer être secouru`,
+          techno: [
+               'C#', 'Unity', 'Blender'
           ]
      },
 ]

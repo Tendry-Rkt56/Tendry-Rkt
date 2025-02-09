@@ -34,7 +34,7 @@ export function About () {
                                    <li><strong>Adresse:</strong> Antananarivo, Madagascar</li>
                                    <li><strong>Freelance:</strong> Disponible</li>
                               </ul>
-                              <a href="/Tendry's CV.pdf" download="Tendry's CV.pdf" className="download btn">Download CV</a>
+                              <a href="/CV Tendry RAKOTO.pdf" download="CV Tendry RAKOTO.pdf" className="download btn">Download CV</a>
                          </div>
                     </div>
                </div>

@@ -23,7 +23,6 @@ export function NavBar () {
                 <a className="links" href="#competences">Compétences</a>
                 <a className="links" href="#projets">Projets</a>
                 <a className="links" href="#contact">Contact</a>
-                <a className="links" href="mailto:tendryzephyrin@gmail.com">Mail</a>
             </nav>
         </header>
     )

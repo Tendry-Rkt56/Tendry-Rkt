@@ -45,7 +45,7 @@ export function Competence () {
                               <span></span>
                          </div>
                          <div className="skill">
-                              <p><i class='typescript bx bxl-typescript'></i></p>
+                              <p><i className='typescript bx bxl-typescript'></i></p>
                               <div className="progress-bar">
                                    <div className="progress" style={{width:"85%"}}></div>
                               </div>
@@ -93,9 +93,9 @@ export function Competence () {
                               <span></span>
                          </div>
                          <div className="skill">
-                              <p><i class='bx bxl-java'></i></p>
+                              <p><i className='bx bxl-java'></i></p>
                               <div className="progress-bar">
-                                   <div className="progress" style={{width:"50%"}}></div>
+                                   <div className="progress" style={{width:"65%"}}></div>
                               </div>
                               <span></span>
                          </div>
