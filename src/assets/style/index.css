@@ -1453,8 +1453,6 @@ span {
 
      .contactForm h2 {
           width:100%;
-          font-size:5.5rem;
-          margin:1.5rem 0 4rem 0;
      }
 
      .formContainer .input,
@@ -1477,13 +1475,6 @@ span {
       }
 }
 
-@media(max-width:400px) {
-     .contactForm h2 {
-          width:100%;
-          font-size:2.5rem;
-          margin:1.5rem 0 2rem 0;
-     }
-}
 
 /* POur les messages flash */
  
