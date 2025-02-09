@@ -27,9 +27,9 @@ export function About () {
                               </p>
                               <ul>
                                    <li><strong>Nom:</strong> Tendry Rkt</li>
-                                   <li><strong>Téléphone:</strong><a href="https://wa.me/261346413187">+261 34 64 131 87</a></li>
+                                   <li><strong>Téléphone:</strong><a className='info' href="https://wa.me/261346413187">+261 34 64 131 87</a></li>
                                    <li><strong>Experience:</strong> 2 ans</li>
-                                   <li><strong>Email:</strong> tendryzephyrin@gmail.com</li>
+                                   <li><strong>Email:</strong> <a className='info' href="mailto:tendryzephyrin@gmail.com">tendryzephyrin@gmail.com</a></li>
                                    <li><strong>Age:</strong> 20</li>
                                    <li><strong>Adresse:</strong> Antananarivo, Madagascar</li>
                                    <li><strong>Freelance:</strong> Disponible</li>

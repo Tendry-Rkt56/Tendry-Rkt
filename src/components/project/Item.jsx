@@ -9,7 +9,8 @@ export function Item ({slide}) {
                     <div className="project-content">
                          <h2>{slide.title}</h2>
                          <p>
-                              {slide.description}
+                              {slide.description} <br></br>
+                              {slide.lien && (<a href={slide.lien} target="_blank" rel="noopener noreferrer">{slide.lien}</a> )}
                          </p>
                          <h3>Technologies utilisées</h3>
                          <ul>

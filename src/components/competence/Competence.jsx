@@ -28,44 +28,51 @@ export function Competence () {
                               <div className="progress-bar">
                                    <div className="progress" style={{width:"90%"}}></div>
                               </div>
-                              <span>90%</span>
+                              <span></span>
                          </div>
                          <div className="skill">
                               <p><i className='css bx bxl-css3'></i></p>
                               <div className="progress-bar">
-                                   <div className="progress" style={{width:"70%"}}></div>
+                                   <div className="progress" style={{width:"80%"}}></div>
                               </div>
-                              <span>70%</span>
+                              <span></span>
                          </div>
                          <div className="skill">
                               <p><i className='js bx bxl-javascript'></i></p>
                               <div className="progress-bar">
-                                   <div className="progress" style={{width:"75%"}}></div>
+                                   <div className="progress" style={{width:"85%"}}></div>
                               </div>
-                              <span>75%</span>
+                              <span></span>
+                         </div>
+                         <div className="skill">
+                              <p><i class='typescript bx bxl-typescript'></i></p>
+                              <div className="progress-bar">
+                                   <div className="progress" style={{width:"85%"}}></div>
+                              </div>
+                              <span></span>
                          </div>
                          <div className="skill">
                               <p><i className='php bx bxl-php'></i></p>
                               <div className="progress-bar">
-                                   <div className="progress" style={{width:"87%"}}></div>
+                                   <div className="progress" style={{width:"90%"}}></div>
                               </div>
-                              <span>87%</span>
+                              <span></span>
                          </div>
                          <div className="skill">
                               <p><i className='react bx bxl-react'></i></p>
                               <div className="progress-bar">
-                                   <div className="progress" style={{width:"80%"}}></div>
+                                   <div className="progress" style={{width:"85%"}}></div>
                               </div>
-                              <span>80%</span>
+                              <span></span>
                          </div>
                          <div className="skill">
                               <p>
                                    <img className="symfony" src={symfony} alt="" />
                               </p>
                               <div className="progress-bar">
-                                   <div className="progress" style={{width:"82%"}}></div>
+                                   <div className="progress" style={{width:"89%"}}></div>
                               </div>
-                              <span>82%</span>
+                              <span></span>
                          </div>
                          <div className="skill">
                               <p>
@@ -74,16 +81,23 @@ export function Competence () {
                               <div className="progress-bar">
                                    <div className="progress" style={{width:"85%"}}></div>
                               </div>
-                              <span>85%</span>
+                              <span></span>
                          </div>
                          <div className="skill">
                               <p>
                                    <img className="sql" src={sql} alt=""/>
                               </p>
                               <div className="progress-bar">
-                                   <div className="progress" style={{width:"73%"}}></div>
+                                   <div className="progress" style={{width:"75%"}}></div>
                               </div>
-                              <span>73%</span>
+                              <span></span>
+                         </div>
+                         <div className="skill">
+                              <p><i class='bx bxl-java'></i></p>
+                              <div className="progress-bar">
+                                   <div className="progress" style={{width:"50%"}}></div>
+                              </div>
+                              <span></span>
                          </div>
                     </div>
                </div>

@@ -662,6 +662,11 @@ span {
      color:#F7DF1E;
 }
 
+.skills-content .containers .skill p .typescript {
+     font-size:5rem;
+     color:#3178C6;
+}
+
 .skills-content .containers .skill p .php{
      font-size:5rem;
      color:#777BB3;
@@ -1431,3 +1436,6 @@ span {
 /* POur les messages flash */
  
 
+.info {
+     color:var(--text-color);
+}

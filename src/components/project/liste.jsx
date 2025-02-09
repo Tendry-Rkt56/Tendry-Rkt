@@ -56,6 +56,7 @@ export const items = [
           title: "QUIZZ en JavaScript", 
           description:`Quizz en JavaScript où les questions et les réponses 
                        sont chargées depuis un fichier JSON, offrant une expérience intéractive et dynamique.`,
+          lien: 'https://js-quizz-app.vercel.app',
           techno: [
                'JavaScript', 'JSON'
           ]
