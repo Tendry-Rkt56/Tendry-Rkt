@@ -50,7 +50,7 @@ function Message() {
 
     const handleSubmit = (e) => {
         e.preventDefault()
-        emailjs.sendForm('service_pvywutj', 'template_ds9c7e9', e.target, 'G16tHXJJ1A8opI3n')
+        emailjs.sendForm('service_pvywutj', 'template_ds9c7e9', e.target, 'G16tHXJJ1A8opI3nU')
             .then(result => setMessage(prev => ({...prev, new: true, content: "Email enoyé", type: 'success'})))
             .catch(error => setMessage(prev => ({...prev, new: true, content: error.toString(), type: 'danger'})))
             .finally(() => {
