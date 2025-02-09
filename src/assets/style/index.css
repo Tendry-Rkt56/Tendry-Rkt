@@ -1453,12 +1453,13 @@ span {
 
      .contactForm h2 {
           width:100%;
+          font-size: 5.5rem;
      }
 
      .formContainer .input,
      .formContainer textarea {
           width:80%;
-          padding: 0.6rem;
+          padding: 0.8rem;
      }
 
      .submit {
