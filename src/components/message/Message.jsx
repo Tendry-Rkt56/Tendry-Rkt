@@ -68,9 +68,9 @@ function Message() {
                {message.new && <Flash message={message.content} type={message.type}/>} 
                <h2 className='reveal_1' ref={reveal_1}><span>Con</span>tactez-moi</h2>
                <form autoComplete='off' ref={form} onSubmit={handleSubmit} className="reveal_2 formContainer">
-                   <input className='input' type="text" name="name" placeholder='Nom...' value={formData.name} onChange={handleChange}/>
-                   <input className='input' type="email" name="email" placeholder='exemple@gmail.com...' value={formData.email} onChange={handleChange}/>
-                   <textarea name="message" id="" value={formData.message} onChange={handleChange} placeholder='Message...' cols="30" rows="5"></textarea>
+                   <input required className='input' type="text" name="name" placeholder='Nom...' value={formData.name} onChange={handleChange}/>
+                   <input required className='input' type="email" name="email" placeholder='exemple@gmail.com...' value={formData.email} onChange={handleChange}/>
+                   <textarea required name="message" id="" value={formData.message} onChange={handleChange} placeholder='Message...' cols="30" rows="5"></textarea>
                    <input type="submit" className='submit' value="Envoyer" />
                </form>
           </section>
