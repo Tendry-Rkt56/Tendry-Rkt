@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react'
-import image from '../../assets/images/Photo_Tendry-02.jpeg'
+import image from '../../assets/images/instasquare.photoeditor.effect.cutout_2025332180193.png'
 import { UseReveal } from '../../hooks/UseReveal'
 
 export function About () {
