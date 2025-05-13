@@ -796,7 +796,7 @@ span {
      flex-direction:column;
      justify-content:center;
      align-items:center;
-     height:500px;
+     height:600px;
      max-height:600Px;
      color: white;
      font-size: 24px;
@@ -839,10 +839,10 @@ span {
 
 .slide .project-content h2 {
      width:100%;
-     font-size:2.5rem;
+     font-size:2.3rem;
      color:#f5F5F5;
      font-weight:400;
-     margin:1.5rem 0 2rem 0;
+     margin:1rem 0 2rem 0;
      text-align: left;
 }
 
@@ -853,6 +853,7 @@ span {
      color:#9e9e9e;
      text-align:left;
      margin-left:20px;
+     width:100%;
 }
 
 .slide .project-container .project-content h3 {
